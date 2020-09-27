@@ -1,0 +1,6 @@
+devid=kniknoo
+devtitle=Nicholas Rake
+gameid=ddate
+gametitle=Discordian Calendar
+version=0.23
+icon=metadata/icon.png
